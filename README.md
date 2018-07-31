@@ -1,1 +1,1 @@
-# manage-your-cloth
+This is a managing system of cloth which you can manage your cloth state more conviniently.It provides two different images for one administrator and several guests,while the administrator can do several operations including insertion,deletion and so on and guests can only view information.Using this system,I am sure you will be a wonderful cloth solder.
